@@ -1,0 +1,27 @@
+<HTML>
+
+<head>
+
+<title> Teoría del color </title>
+
+</head>
+
+<body> 
+<h1>La teoría del color</h1>
+
+  <p>La <strong>teoría del color</strong> es un conjunto de reglas y pautas que los diseñadores utilizan para comunicar con los colores de manera visualmente atractiva.</p>
+
+  <p>Los colores se clasifican en <em>colores primarios</em>, <em>colores secundarios</em> y <em>colores terciarios</em>.</p>
+
+  <p>Los <u>colores primarios</u> son: rojo, azul y amarillo. A partir de ellos se pueden crear todos los demás colores.</p>
+  <img src="https://cdn.todamateria.com/imagenes/colores-primarios-tradicionales-2-cke.jpg" alt="Colores primarios" width="300">
+
+ <p>Los colores secundarios </p>
+ <p>Se forman al mezclar dos colores primarios.</p>
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScfYbKgrJfzRt_DZo2-6ggV_nSML53uBSg_g&s" alt="Colores secundarios" width="300">
+
+
+  <p>El uso adecuado del color puede influir en las emociones y percepciones de las personas, por eso es una herramienta <strong>muy poderosa</strong> en diseño gráfico, arte y publicidad.</p>
+</body>
+</html>
